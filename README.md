@@ -45,8 +45,7 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40"/>
   </a>
   <a href="https://github.com/rashmisahray" target="_blank">
-    <img src="![GitHub Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" width="40" height="40"/>
-  </a>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" />
   <a href="https://instagram.com/rush_mee.11" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40"/>
   </a>
