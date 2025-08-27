@@ -1,7 +1,14 @@
 <h1 align="center">
   👋 Hi, I’m Rashmi Sahray!
-  <img src="./assets/sunflower.svg" alt="sunflower" width="32" height="32" style="vertical-align:middle;margin-left:8px;" />
+  <span style="display:inline-block; animation: spin 4s linear infinite;">🌻</span>
 </h1>
+
+<style>
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+</style>
 
 🎓 *Education:*  
 I’m currently pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University (LPU), specializing in Artificial Intelligence (AI) and Data Engineering.
@@ -13,7 +20,7 @@ I’m currently pursuing a B.Tech in Computer Science and Engineering at Lovely 
 - 🌐 *Web Technologies:* HTML, CSS, JavaScript  
 - 🐍 *Programming Languages:* Python, Java  
 - 🖥 *Computer Science Fundamentals:* Data Structures and Algorithms (DSA), Computer Networking  
-- 🤖 *Advanced Technologies:* Artificial Intelligence (AI), Data Engineering
+- 🤖 *Advanced Technologies:* Artificial Intelligence (AI), Data Engineering  
 
 ---
 
@@ -44,11 +51,19 @@ I’m currently pursuing a B.Tech in Computer Science and Engineering at Lovely 
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rashmisahray&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmisahray&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmisahray&theme=radical" alt="streak" />
 </p>
+
+---
+
+## 🐍 Contributions Snake
+
+![snake gif](https://github.com/rashmisahray/rashmisahray/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 *rashmisahray/rashmisahray* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
-
