@@ -32,7 +32,8 @@
 ## 📈 What I'm Working On
 
 - Deepening my expertise in AI and Data Engineering  
-- Building hands-on projects with Python and Java  
+- Building hands-on projects with Python and Java
+- Enhancing problem-solving through DSA practice  
 - Exploring new trends in web development  
 
 ---
